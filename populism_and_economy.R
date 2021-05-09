@@ -20,7 +20,7 @@ wb <- read_csv('./data/world_bank_econ_20210222.csv',
   rename_all(tolower) %>% clean_names()
  #world bank data has one row per dyad of country + data_series, with columns for each year of data
 
-vdem <- read_csv('./data/V-Dem-CY-Core-v11.csv')
+vdem <- read_csv('./data/V-Dem-CY-Core-v11_1980on.csv')
  #V-Dem data has one row per dyad of country + year
  #columns include myriad indicators, which roll up through mid-level indexes into five high-level indexes
 

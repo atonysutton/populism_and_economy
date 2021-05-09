@@ -1,0 +1,44 @@
+
+<table style="text-align:center"><caption><strong>Linear Regression Models for Labor Participation, Using Matches</strong></caption>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="7"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="7" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="7">GDP per capita, lagged one year</td></tr>
+<tr><td style="text-align:left"></td><td colspan="7"><em>OLS</em></td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Populism</td><td>-0.027</td><td>0.381</td><td>0.137</td><td>0.182</td><td>0.058</td><td>0.176</td><td>-0.118</td></tr>
+<tr><td style="text-align:left"></td><td>(0.145)</td><td>(0.309)</td><td>(0.329)</td><td>(0.384)</td><td>(0.769)</td><td>(0.800)</td><td>(1.545)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">GDP per capita</td><td></td><td>-0.0001</td><td>-0.0001</td><td>-0.0001</td><td>-0.0001</td><td>-0.0001</td><td>-0.0001</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.0001)</td><td>(0.0001)</td><td>(0.0001)</td><td>(0.0001)</td><td>(0.0001)</td><td>(0.0001)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Ethnic Fractionalization</td><td></td><td>-3.313</td><td>-9.005</td><td>-9.377</td><td>-10.513</td><td>-8.949</td><td>-10.757</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(9.257)</td><td>(9.959)</td><td>(10.144)</td><td>(10.615)</td><td>(10.075)</td><td>(10.792)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Leftist</td><td></td><td></td><td>-0.738<sup>*</sup></td><td>-0.732<sup>*</sup></td><td>-0.700</td><td>-0.745<sup>*</sup></td><td>-0.741</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.383)</td><td>(0.386)</td><td>(0.684)</td><td>(0.410)</td><td>(0.718)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Rightist</td><td></td><td></td><td>-0.890<sup>*</sup></td><td>-0.896<sup>*</sup></td><td>-1.018</td><td>-0.901<sup>*</sup></td><td>-1.065</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.480)</td><td>(0.483)</td><td>(0.765)</td><td>(0.525)</td><td>(0.800)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Tenure</td><td></td><td></td><td></td><td>-0.018</td><td></td><td></td><td>-0.016</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td>(0.079)</td><td></td><td></td><td>(0.083)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Ethnic Fractionalization</td><td></td><td></td><td></td><td></td><td></td><td>-0.096</td><td>0.313</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td>(1.827)</td><td>(2.231)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Tenure</td><td></td><td></td><td>0.006</td><td>0.019</td><td>0.006</td><td>0.006</td><td>0.017</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.046)</td><td>(0.074)</td><td>(0.047)</td><td>(0.047)</td><td>(0.077)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Leftist</td><td></td><td></td><td></td><td></td><td>-0.189</td><td></td><td>-0.074</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td>(0.996)</td><td></td><td>(1.156)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Rightist</td><td></td><td></td><td></td><td></td><td>0.453</td><td></td><td>0.571</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td>(1.038)</td><td></td><td>(1.258)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.0002</td><td>0.397</td><td>0.425</td><td>0.426</td><td>0.428</td><td>0.425</td><td>0.429</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>-0.007</td><td>0.069</td><td>0.082</td><td>0.072</td><td>0.065</td><td>0.071</td><td>0.043</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>0.857 (df = 138)</td><td>0.824 (df = 90)</td><td>0.818 (df = 87)</td><td>0.823 (df = 86)</td><td>0.826 (df = 85)</td><td>0.823 (df = 86)</td><td>0.835 (df = 83)</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>0.034 (df = 1; 138)</td><td>1.209 (df = 49; 90)</td><td>1.238 (df = 52; 87)</td><td>1.203 (df = 53; 86)</td><td>1.179 (df = 54; 85)</td><td>1.201 (df = 53; 86)</td><td>1.112 (df = 56; 83)</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="7" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

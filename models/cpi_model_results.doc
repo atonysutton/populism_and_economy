@@ -1,0 +1,44 @@
+
+<table style="text-align:center"><caption><strong>Linear Regression Models for Inflation</strong></caption>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="7"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="7" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="7">CPI, lagged one year</td></tr>
+<tr><td style="text-align:left"></td><td colspan="7"><em>OLS</em></td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Populism</td><td>7.690<sup>***</sup></td><td>-0.478</td><td>-0.120</td><td>2.710<sup>***</sup></td><td>-1.409</td><td>1.210</td><td>1.356</td></tr>
+<tr><td style="text-align:left"></td><td>(1.158)</td><td>(0.805)</td><td>(0.818)</td><td>(0.924)</td><td>(1.425)</td><td>(2.169)</td><td>(2.774)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">GDP per capita</td><td></td><td>0.0001</td><td>0.0002</td><td>0.0001</td><td>0.0002</td><td>0.0002</td><td>0.0001</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.0002)</td><td>(0.0002)</td><td>(0.0002)</td><td>(0.0002)</td><td>(0.0002)</td><td>(0.0002)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Ethnic Fractionalization</td><td></td><td>11.567</td><td>15.952</td><td>14.952</td><td>15.341</td><td>15.974</td><td>14.347</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(12.703)</td><td>(12.819)</td><td>(12.332)</td><td>(13.625)</td><td>(12.828)</td><td>(13.127)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Leftist</td><td></td><td></td><td>-0.132</td><td>-0.174</td><td>-0.459</td><td>-0.041</td><td>-0.676</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.630)</td><td>(0.607)</td><td>(0.824)</td><td>(0.646)</td><td>(0.808)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Rightist</td><td></td><td></td><td>-0.347</td><td>-0.539</td><td>-0.867</td><td>-0.329</td><td>-1.336<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.617)</td><td>(0.595)</td><td>(0.768)</td><td>(0.618)</td><td>(0.763)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Tenure</td><td></td><td></td><td></td><td>-1.130<sup>***</sup></td><td></td><td></td><td>-1.173<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td>(0.193)</td><td></td><td></td><td>(0.194)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Ethnic Fractionalization</td><td></td><td></td><td></td><td></td><td></td><td>-3.097</td><td>-1.251</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td>(4.678)</td><td>(4.824)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Tenure</td><td></td><td></td><td>-0.231<sup>**</sup></td><td>0.322<sup>**</sup></td><td>-0.228<sup>**</sup></td><td>-0.229<sup>**</sup></td><td>0.349<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.105)</td><td>(0.138)</td><td>(0.105)</td><td>(0.105)</td><td>(0.139)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Leftist</td><td></td><td></td><td></td><td></td><td>1.364</td><td></td><td>2.188</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td>(1.727)</td><td></td><td>(1.674)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Populism x Rightist</td><td></td><td></td><td></td><td></td><td>2.226</td><td></td><td>3.370</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td>(2.023)</td><td></td><td>(2.090)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>661</td><td>469</td><td>469</td><td>469</td><td>469</td><td>469</td><td>469</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.063</td><td>0.620</td><td>0.625</td><td>0.654</td><td>0.626</td><td>0.625</td><td>0.657</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.061</td><td>0.570</td><td>0.573</td><td>0.605</td><td>0.572</td><td>0.573</td><td>0.606</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>11.650 (df = 659)</td><td>3.933 (df = 414)</td><td>3.921 (df = 411)</td><td>3.772 (df = 410)</td><td>3.924 (df = 409)</td><td>3.924 (df = 410)</td><td>3.769 (df = 407)</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>44.115<sup>***</sup> (df = 1; 659)</td><td>12.511<sup>***</sup> (df = 54; 414)</td><td>12.022<sup>***</sup> (df = 57; 411)</td><td>13.359<sup>***</sup> (df = 58; 410)</td><td>11.617<sup>***</sup> (df = 59; 409)</td><td>11.806<sup>***</sup> (df = 58; 410)</td><td>12.783<sup>***</sup> (df = 61; 407)</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="7" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>
