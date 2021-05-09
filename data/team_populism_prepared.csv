@@ -1,0 +1,183 @@
+unique_id,country,ISO_code,region,leader,party,left_right,president,average_score,speech_category,year_begin,year_end
+Argentina_Fernando de la Rúa_1_1999_2001,Argentina,ARG,Latin America & Caribbean,Fernando de la Rúa,Radical Civic Union,0,1,0.2,Not populist,1999,2001
+Argentina_Eduardo Duhalde_1_2002_2003,Argentina,ARG,Latin America & Caribbean,Eduardo Duhalde,Justicialist Party,0,1,0.5,Somewhat populist,2002,2003
+Argentina_Kirchner_1_2003_2007,Argentina,ARG,Latin America & Caribbean,Kirchner,Front for Victory,-1,1,0.3,Not populist,2003,2007
+Argentina_Cristina Fernández_1_2007_2015,Argentina,ARG,Latin America & Caribbean,Cristina Fernández,Front for Victory,-1,1,0,Not populist,2007,2015
+Argentina_Mauricio Macri_1_2015_1899,Argentina,ARG,Latin America & Caribbean,Mauricio Macri,Republican Proposal,1,1,0,Not populist,2015,1899
+Austria_Wolfgang Schüssel_1_2000_2003,Austria,AUT,Europe & Central Asia,Wolfgang Schüssel,Austrian People's Party,1,0,0.1,Not populist,2000,2003
+Austria_Wolfgang Schüssel_2_2003_2007,Austria,AUT,Europe & Central Asia,Wolfgang Schüssel,Austrian People's Party,1,0,0,Not populist,2003,2007
+Austria_Alfred Gusenbauer_1_2007_2008,Austria,AUT,Europe & Central Asia,Alfred Gusenbauer,Social Democratic Party of Austria,-1,0,0.3,Not populist,2007,2008
+Austria_Faymann_1_2008_2013,Austria,AUT,Europe & Central Asia,Faymann,Social Democratic Party of Austria,-1,0,0.1,Not populist,2008,2013
+Austria_Faymann_2_2013_2016,Austria,AUT,Europe & Central Asia,Faymann,Social Democratic Party of Austria,-1,0,0.1,Not populist,2013,2016
+Austria_Kern_1_2016_2017,Austria,AUT,Europe & Central Asia,Kern,Social Democratic Party of Austria,-1,0,0.3,Not populist,2016,2017
+Austria_Sebastian Kurz_1_2017_1899,Austria,AUT,Europe & Central Asia,Sebastian Kurz,Austrian People's Party,1,0,0.1,Not populist,2017,1899
+Bolivia_Gonzalo Sánchez de Lozada_2_2002_2003,Bolivia,BOL,Latin America & Caribbean,Gonzalo Sánchez de Lozada,Revolutionary Nationalist Movement,0,1,0.2,Not populist,2002,2003
+Bolivia_Mesa_1_2003_2005,Bolivia,BOL,Latin America & Caribbean,Mesa,Independent,0,1,0.1,Not populist,2003,2005
+Bolivia_Morales_1_2006_2010,Bolivia,BOL,Latin America & Caribbean,Morales,Movement for Socialism,-1,1,1.5,Very Populist,2006,2010
+Bolivia_Evo Morales_2_2010_2015,Bolivia,BOL,Latin America & Caribbean,Evo Morales,Movement for Socialism,-1,1,1,Populist,2010,2015
+Bolivia_Evo Morales_3_2015_1899,Bolivia,BOL,Latin America & Caribbean,Evo Morales,Movement for Socialism,-1,1,1.5,Very Populist,2015,1899
+Brazil_Fernando Henrique Cardoso_2_1999_2002,Brazil,BRA,Latin America & Caribbean,Fernando Henrique Cardoso,Brazilian Social Democratic Party,0,1,0,Not populist,1999,2002
+Brazil_Lula_1_2003_2010,Brazil,BRA,Latin America & Caribbean,Lula,Workers' Party,-1,1,0.3,Not populist,2003,2010
+Brazil_Dilma Rousseff_1_2011_2014,Brazil,BRA,Latin America & Caribbean,Dilma Rousseff,Workers' Party,-1,1,0,Not populist,2011,2014
+Brazil_Dilma Rousseff_2_2015_2016,Brazil,BRA,Latin America & Caribbean,Dilma Rousseff,Workers' Party,-1,1,0.3,Not populist,2015,2016
+Brazil_Michel Temer_1_2016_1899,Brazil,BRA,Latin America & Caribbean,Michel Temer,Brazilian Democratic Movement Party,0,1,0,Not populist,2016,1899
+Brazil_Jair Bolsonaro_1_2019_1899,Brazil,BRA,Latin America & Caribbean,Jair Bolsonaro,Jair Bolsonaro,1,1,0.5,Somewhat populist,2019,1899
+Bulgaria_Simeon_1_2001_2005,Bulgaria,BGR,Europe & Central Asia,Simeon,National Movement for Stability and Progress,0,0,0.1,Not populist,2001,2005
+Bulgaria_Stanishev_1_2005_2009,Bulgaria,BGR,Europe & Central Asia,Stanishev,Bulgarian Socialist Party,-1,0,0.1,Not populist,2005,2009
+Bulgaria_Boyko Borisov_1_2009_2013,Bulgaria,BGR,Europe & Central Asia,Boyko Borisov,Citizens for European Development of Bulgaria,0,0,0.6,Somewhat populist,2009,2013
+Bulgaria_Boyko Borisov_2_2014_2017,Bulgaria,BGR,Europe & Central Asia,Boyko Borisov,Citizens for European Development of Bulgaria,0,0,0.2,Not populist,2014,2017
+Bulgaria_Boyko Borisov_3_2017_1899,Bulgaria,BGR,Europe & Central Asia,Boyko Borisov,Citizens for European Development of Bulgaria,0,0,0.1,Not populist,2017,1899
+Canada_Jean Chrétien_3_2001_2003,Canada,CAN,North America,Jean Chrétien,Liberal Party,0,0,0,Not populist,2001,2003
+Canada_Paul Martin_1_2003_2006,Canada,CAN,North America,Paul Martin,Liberal Party,0,0,0.3,Not populist,2003,2006
+Canada_Stephen Harper_1_2006_2008,Canada,CAN,North America,Stephen Harper,Conservative Party,1,0,0.3,Not populist,2006,2008
+Canada_Stephen Harper_2_2008_2011,Canada,CAN,North America,Stephen Harper,Conservative Party,1,0,0.2,Not populist,2008,2011
+Canada_Stephen Harper_3_2011_2015,Canada,CAN,North America,Stephen Harper,Conservative Party,1,0,0.2,Not populist,2011,2015
+Canada_Justin Trudeau_1_2015_1899,Canada,CAN,North America,Justin Trudeau,Liberal Party,0,0,0.1,Not populist,2015,1899
+Chile_Lagos_1_2000_2006,Chile,CHL,Latin America & Caribbean,Lagos,Party for Democracy,-1,1,0.1,Not populist,2000,2006
+Chile_Michelle Bachelet_1_2006_2010,Chile,CHL,Latin America & Caribbean,Michelle Bachelet,Socialist Party of Chile,-1,1,0,Not populist,2006,2010
+Chile_Sebastián Piñera_1_2010_2014,Chile,CHL,Latin America & Caribbean,Sebastián Piñera,National Renewal,1,1,0,Not populist,2010,2014
+Chile_Michelle Bachelet_2_2014_2018,Chile,CHL,Latin America & Caribbean,Michelle Bachelet,Socialist Party of Chile,-1,1,0.2,Not populist,2014,2018
+Chile_Sebastián Piñera_2_2018_1899,Chile,CHL,Latin America & Caribbean,Sebastián Piñera,National Renewal,1,1,0.2,Not populist,2018,1899
+Colombia_Andrés Pastrana_1_1998_2002,Colombia,COL,Latin America & Caribbean,Andrés Pastrana,Colombian Conservative Party,1,1,0,Not populist,1998,2002
+Colombia_Uribe_1_2002_2010,Colombia,COL,Latin America & Caribbean,Uribe,Social National Unity Party,1,1,0,Not populist,2002,2010
+Colombia_Juan Manuel Santos_1_2010_2014,Colombia,COL,Latin America & Caribbean,Juan Manuel Santos,Social National Unity Party,0,1,0,Not populist,2010,2014
+Colombia_Juan Manuel Santos_2_2014_2018,Colombia,COL,Latin America & Caribbean,Juan Manuel Santos,Social National Unity Party,0,1,0.1,Not populist,2014,2018
+Costa Rica_Miguel Ángel Rodríguez_1_1998_2002,Costa Rica,CRI,Latin America & Caribbean,Miguel Ángel Rodríguez,Social Christian Unity Party,1,1,0.1,Not populist,1998,2002
+Costa Rica_Abel Pacheco_1_2002_2006,Costa Rica,CRI,Latin America & Caribbean,Abel Pacheco,Social Christian Unity Party,1,1,0.2,Not populist,2002,2006
+Costa Rica_Óscar Arias_2_2006_2010,Costa Rica,CRI,Latin America & Caribbean,Óscar Arias,National Liberation Party,0,1,0,Not populist,2006,2010
+Costa Rica_Laura Chinchilla Miranda_1_2010_2014,Costa Rica,CRI,Latin America & Caribbean,Laura Chinchilla Miranda,National Liberation Party,0,1,0,Not populist,2010,2014
+Costa Rica_Luis Guillermo Solis_1_2018_1899,Costa Rica,CRI,Latin America & Caribbean,Luis Guillermo Solis,Citizens' Action Party,-1,1,0.4,Not populist,2018,1899
+Croatia_Racan_1_2000_2003,Croatia,HRV,Europe & Central Asia,Racan,Social Democratic Party of Croatia,-1,0,0,Not populist,2000,2003
+Croatia_Sanader_1_2003_2009,Croatia,HRV,Europe & Central Asia,Sanader,Croatian Democratic Union,1,0,0.5,Somewhat populist,2003,2009
+Croatia_Milanovic_1_2011_2016,Croatia,HRV,Europe & Central Asia,Milanovic,Social Democratic Party of Croatia,-1,0,0.2,Not populist,2011,2016
+Croatia_Plenkovic_1_2016_1899,Croatia,HRV,Europe & Central Asia,Plenkovic,Croatian Democratic Union,1,0,0,Not populist,2016,1899
+Czech Republic_Milos Zeman_1_1998_2002,Czech Republic,CZE,Europe & Central Asia,Milos Zeman,Czech Social Democratic Party,-1,0,0,Not populist,1998,2002
+Czech Republic_Mirek Topolanek_1_2006_2009,Czech Republic,CZE,Europe & Central Asia,Mirek Topolanek,Civic Democratic Party,1,0,1,Populist,2006,2009
+Czech Republic_Petr Necas_1_2010_2013,Czech Republic,CZE,Europe & Central Asia,Petr Necas,Civic Democratic Party,1,0,0.1,Not populist,2010,2013
+Czech Republic_Bohuslav Sobotka_1_2014_2017,Czech Republic,CZE,Europe & Central Asia,Bohuslav Sobotka,Czech Social Democratic Party,-1,0,0,Not populist,2014,2017
+Dominican Republic_Hipólito Mejía_1_2000_2004,Dominican Republic,DOM,Latin America & Caribbean,Hipólito Mejía,Dominican Revolutionary Party,0,1,0.1,Not populist,2000,2004
+Dominican Republic_Leonel Fernández_2_2004_2008,Dominican Republic,DOM,Latin America & Caribbean,Leonel Fernández,Dominican Liberation Party,1,1,0.3,Not populist,2004,2008
+Dominican Republic_Leonel Fernández_3_2008_2012,Dominican Republic,DOM,Latin America & Caribbean,Leonel Fernández,Dominican Liberation Party,1,1,0.3,Not populist,2008,2012
+Dominican Republic_Danilo Medina_1_2012_2016,Dominican Republic,DOM,Latin America & Caribbean,Danilo Medina,Dominican Liberation Party,1,1,0.2,Not populist,2012,2016
+Dominican Republic_Danilo Medina_2_2016_1899,Dominican Republic,DOM,Latin America & Caribbean,Danilo Medina,Dominican Liberation Party,1,1,0.4,Not populist,2016,1899
+Ecuador_Gustavo Noboa_1_2000_1972,Ecuador,ECU,Latin America & Caribbean,Gustavo Noboa,Christian Democratic Union,0,1,0.2,Not populist,2000,1972
+Ecuador_Lucio Gutiérrez_1_2003_2005,Ecuador,ECU,Latin America & Caribbean,Lucio Gutiérrez,January 21Patriotic Society,0,1,1,Populist,2003,2005
+Ecuador_Alfredo Palacio_1_2005_2007,Ecuador,ECU,Latin America & Caribbean,Alfredo Palacio,Independent,0,1,0.4,Not populist,2005,2007
+Ecuador_Rafael Correa_1_2007_2009,Ecuador,ECU,Latin America & Caribbean,Rafael Correa,Proud and Sovereign Fatherland Alliance,-1,1,1.3,Populist,2007,2009
+Ecuador_Rafael Correa_2_2009_2013,Ecuador,ECU,Latin America & Caribbean,Rafael Correa,Proud and Sovereign Fatherland Alliance,-1,1,1.7,Very Populist,2009,2013
+Ecuador_Rafael Correa_3_2013_2017,Ecuador,ECU,Latin America & Caribbean,Rafael Correa,Proud and Sovereign Fatherland Alliance,-1,1,1.5,Very Populist,2013,2017
+Ecuador_Lenín Moreno_1_2017_1899,Ecuador,ECU,Latin America & Caribbean,Lenín Moreno,Proud and Sovereign Fatherland Alliance,-1,1,0.2,Not populist,2017,1899
+El Salvador_Francisco Flores_1_1999_2004,El Salvador,SLV,Latin America & Caribbean,Francisco Flores,Nationalist Republican Alliance,1,1,0,Not populist,1999,2004
+El Salvador_Antonio Saca_1_2004_2009,El Salvador,SLV,Latin America & Caribbean,Antonio Saca,Nationalist Republican Alliance,1,1,0.6,Somewhat populist,2004,2009
+El Salvador_Mauricio Funes_1_2009_2014,El Salvador,SLV,Latin America & Caribbean,Mauricio Funes,Farabundo Marti National Liberational Front,-1,1,0.6,Somewhat populist,2009,2014
+El Salvador_Salvador Sánchez Cerén_1_2014_1899,El Salvador,SLV,Latin America & Caribbean,Salvador Sánchez Cerén,Farabundo Marti National Liberational Front,-1,1,0.6,Somewhat populist,2014,1899
+France_Jacques Chirac_2_2002_2007,France,FRA,Europe & Central Asia,Jacques Chirac,Union for a Popular Movement,1,1,0.1,Not populist,2002,2007
+France_Nicolas Sarkozy_1_2007_2012,France,FRA,Europe & Central Asia,Nicolas Sarkozy,Union for a Popular Movement,1,1,0.2,Not populist,2007,2012
+France_Francois Hollande_1_2012_2017,France,FRA,Europe & Central Asia,Francois Hollande,Socialist Party,-1,1,0.1,Not populist,2012,2017
+France_Emmanuel Macron_1_2017_1899,France,FRA,Europe & Central Asia,Emmanuel Macron,Forward Republic,0,1,0.2,Not populist,2017,1899
+Germany_Gerhard Schroeder_1_1998_2005,Germany,DEU,Europe & Central Asia,Gerhard Schroeder,Social Democrat Party,-1,0,0,Not populist,1998,2005
+Germany_Angela Merkel_1_2005_2009,Germany,DEU,Europe & Central Asia,Angela Merkel,Christian Democratic Union,0,0,0,Not populist,2005,2009
+Germany_Angela Merkel_2_2009_2013,Germany,DEU,Europe & Central Asia,Angela Merkel,Christian Democratic Union,0,0,0.1,Not populist,2009,2013
+Germany_Angela Merkel_3_2013_2018,Germany,DEU,Europe & Central Asia,Angela Merkel,Christian Democratic Union,0,0,0,Not populist,2013,2018
+Guatemala_Óscar Berger_1_2004_2008,Guatemala,GTM,Latin America & Caribbean,Óscar Berger,National Solidarity Party,1,1,0,Not populist,2004,2008
+Guatemala_Álvaro Colom Caballero_1_2008_2012,Guatemala,GTM,Latin America & Caribbean,Álvaro Colom Caballero,National Unity of Hope,0,1,0.1,Not populist,2008,2012
+Guatemala_Otto Pérez Molina_1_2012_2015,Guatemala,GTM,Latin America & Caribbean,Otto Pérez Molina,Patriotic Party,1,1,0.3,Not populist,2012,2015
+Guatemala_Jimmy Morales_1_2016_1899,Guatemala,GTM,Latin America & Caribbean,Jimmy Morales,National Convergence Front,1,1,0.1,Not populist,2016,1899
+Honduras_Carlos Flores_1_1998_2002,Honduras,HND,Latin America & Caribbean,Carlos Flores,Liberal Party of Honduras,1,1,0.1,Not populist,1998,2002
+Honduras_Ricardo Maduro_1_2002_2006,Honduras,HND,Latin America & Caribbean,Ricardo Maduro,National Party,0,1,0,Not populist,2002,2006
+Honduras_Manuel Zelaya_1_2006_2009,Honduras,HND,Latin America & Caribbean,Manuel Zelaya,Liberal Party of Honduras,-1,1,0.5,Somewhat populist,2006,2009
+Honduras_Porfirio Lobo Sosa_1_2010_2014,Honduras,HND,Latin America & Caribbean,Porfirio Lobo Sosa,National Party,0,1,0.3,Not populist,2010,2014
+Honduras_Juan Orlando Hernández_1_2014_1899,Honduras,HND,Latin America & Caribbean,Juan Orlando Hernández,National Party,0,1,0.5,Somewhat populist,2014,1899
+Hungary_Viktor Orban_1_1998_2002,Hungary,HUN,Europe & Central Asia,Viktor Orban,The Fidesz - Hungarian Civic Alliance,1,0,0.4,Not populist,1998,2002
+Hungary_Ferenc Gyurcsany_1_2004_2009,Hungary,HUN,Europe & Central Asia,Ferenc Gyurcsany,Hungarian Socialist Party,-1,0,0,Not populist,2004,2009
+Hungary_Viktor Orban_2_2010_2014,Hungary,HUN,Europe & Central Asia,Viktor Orban,The Fidesz - Hungarian Civic Alliance,1,0,0.9,Somewhat populist,2010,2014
+Hungary_Viktor Orban_3_2014_2018,Hungary,HUN,Europe & Central Asia,Viktor Orban,The Fidesz - Hungarian Civic Alliance,1,0,0.8,Somewhat populist,2014,2018
+India_Atal Bihari Vajpayee_3_1998_2004,India,IND,South Asia,Atal Bihari Vajpayee,Bharatiya Janata Party,1,0,0,Not populist,1998,2004
+India_Manmohan Singh_1_2004_2009,India,IND,South Asia,Manmohan Singh,Indian National Congress,0,0,0,Not populist,2004,2009
+India_Manmohan Singh_2_2009_2014,India,IND,South Asia,Manmohan Singh,Indian National Congress,0,0,0,Not populist,2009,2014
+India_Narendra Modi_1_2014_1899,India,IND,South Asia,Narendra Modi,Bharatiya Janata Party,1,0,0.6,Somewhat populist,2014,1899
+Italy_Silvio Berlusconi_1_2001_2006,Italy,ITA,Europe & Central Asia,Silvio Berlusconi,Forward Italy,1,0,0.8,Somewhat populist,2001,2006
+Italy_Romano Prodi_2_2006_2008,Italy,ITA,Europe & Central Asia,Romano Prodi,Democratic Party,-1,0,0.1,Not populist,2006,2008
+Italy_Silvio Berlusconi_2_2008_2011,Italy,ITA,Europe & Central Asia,Silvio Berlusconi,Forward Italy,1,0,0.9,Somewhat populist,2008,2011
+Italy_Matteo Renzi_1_2014_2016,Italy,ITA,Europe & Central Asia,Matteo Renzi,Democratic Party,-1,0,0,Not populist,2014,2016
+Italy_Giuseppe Conte_1_2018_1899,Italy,ITA,Europe & Central Asia,Giuseppe Conte,Independent,0,0,1,Somewhat populist,2018,1899
+Latvia_Einars Repše_1_2002_2004,Latvia,LVA,Europe & Central Asia,Einars Repše,The New Era Party,1,0,0.5,Somewhat populist,2002,2004
+Latvia_Aigars Kalvitis_1_2004_2007,Latvia,LVA,Europe & Central Asia,Aigars Kalvitis,The People's Party,1,0,0.5,Somewhat populist,2004,2007
+Latvia_Valdis Dombrovskis_1_2009_2014,Latvia,LVA,Europe & Central Asia,Valdis Dombrovskis,The New Era Party/Unity,1,0,0,Not populist,2009,2014
+Latvia_Laimdota Straujuma_1_2014_2016,Latvia,LVA,Europe & Central Asia,Laimdota Straujuma,Unity,1,0,0,Not populist,2014,2016
+Latvia_Maris Kucinskis_1_2016_2019,Latvia,LVA,Europe & Central Asia,Maris Kucinskis,Liep?ja Party,1,0,0,Not populist,2016,2019
+Mexico_Vicente Fox_1_2000_2006,Mexico,MEX,Latin America & Caribbean,Vicente Fox,National Action Party,1,1,0.3,Not populist,2000,2006
+Mexico_Felipe Calderón_1_2006_2012,Mexico,MEX,Latin America & Caribbean,Felipe Calderón,National Action Party,1,1,0.1,Not populist,2006,2012
+Mexico_Enrique Peña Nieto_1_2012_2018,Mexico,MEX,Latin America & Caribbean,Enrique Peña Nieto,Institutional Revolutionary Party,0,1,0,Not populist,2012,2018
+Mexico_Andrés Manuel López Obrador_1_2018_1899,Mexico,MEX,Latin America & Caribbean,Andrés Manuel López Obrador,National Regeneration Movement,-1,1,1,Populist,2018,1899
+Netherlands_Jan Peter Balkenende_1_2002_2006,Netherlands,NLD,Europe & Central Asia,Jan Peter Balkenende,Christian Democratic Appeal,0,0,0.1,Not populist,2002,2006
+Netherlands_Jan Peter Balkenende_2_2006_2010,Netherlands,NLD,Europe & Central Asia,Jan Peter Balkenende,Christian Democratic Appeal,0,0,0.3,Not populist,2006,2010
+Netherlands_Mark Rutte_1_2010_2012,Netherlands,NLD,Europe & Central Asia,Mark Rutte,People's Party for Freedom and Democracy,1,0,0.3,Not populist,2010,2012
+Netherlands_Mark Rutte_2_2012_2017,Netherlands,NLD,Europe & Central Asia,Mark Rutte,People's Party for Freedom and Democracy,1,0,0.2,Not populist,2012,2017
+Nicaragua_Enrique Bolaños_1_2002_2007,Nicaragua,NIC,Latin America & Caribbean,Enrique Bolaños,Constitutionalist Liberal Party,1,1,0,Not populist,2002,2007
+Nicaragua_Daniel Ortega_1_2007_2012,Nicaragua,NIC,Latin America & Caribbean,Daniel Ortega,Sandinista National Liberation Front,0,1,1.3,Populist,2007,2012
+Nicaragua_Daniel Ortega_2_2012_2015,Nicaragua,NIC,Latin America & Caribbean,Daniel Ortega,Sandinista National Liberation Front,0,1,1,Populist,2012,2015
+Nicaragua_Daniel Ortega_3_2015_1899,Nicaragua,NIC,Latin America & Caribbean,Daniel Ortega,Sandinista National Liberation Front,0,1,0.9,Somewhat populist,2015,1899
+Norway_Kjell Magne Bondevik_2_2001_2005,Norway,NOR,Europe & Central Asia,Kjell Magne Bondevik,Christian Peoples Party,0,0,0.1,Not populist,2001,2005
+Norway_Jens Stoltenberg_2_2005_2009,Norway,NOR,Europe & Central Asia,Jens Stoltenberg,Labour Party,-1,0,0.2,Not populist,2005,2009
+Norway_Jens Stoltenberg_3_2009_2013,Norway,NOR,Europe & Central Asia,Jens Stoltenberg,Labour Party,-1,0,0.2,Not populist,2009,2013
+Norway_Erna Solberg_1_2013_2017,Norway,NOR,Europe & Central Asia,Erna Solberg,Conservative Party,1,0,0.1,Not populist,2013,2017
+Panama_Martín Torrijos_1_2004_2009,Panama,PAN,Latin America & Caribbean,Martín Torrijos,Democratic Revolutionary Party,0,1,0.2,Not populist,2004,2009
+Panama_Ricardo Martinelli_1_2009_2014,Panama,PAN,Latin America & Caribbean,Ricardo Martinelli,Democratic Change,1,1,0.5,Somewhat populist,2009,2014
+Panama_Juan Carlos Varela_1_2014_1899,Panama,PAN,Latin America & Caribbean,Juan Carlos Varela,Panameñista Party,1,1,0.3,Not populist,2014,1899
+Paraguay_Nicanor Duarte_1_2003_2008,Paraguay,PRY,Latin America & Caribbean,Nicanor Duarte,The National Republican Association - Colorado Party,0,1,0.5,Somewhat populist,2003,2008
+Paraguay_Fernando Lugo_1_2008_2012,Paraguay,PRY,Latin America & Caribbean,Fernando Lugo,Patriotic Alliance for Change,-1,1,0,Not populist,2008,2012
+Paraguay_Federico Franco_1_2012_2013,Paraguay,PRY,Latin America & Caribbean,Federico Franco,The Authentic Radical Liberal Party,1,1,0,Not populist,2012,2013
+Paraguay_Horacio Cartes_1_2013_2018,Paraguay,PRY,Latin America & Caribbean,Horacio Cartes,The National Republican Association - Colorado Party,0,1,0.2,Not populist,2013,2018
+Peru_Alejandro Toledo_1_2001_2006,Peru,PER,Latin America & Caribbean,Alejandro Toledo,Possible Peru,0,1,0.3,Not populist,2001,2006
+Peru_Alan García_1_2006_2011,Peru,PER,Latin America & Caribbean,Alan García,Alianza Popular Revolucionario de las Americas,0,1,1,Populist,2006,2011
+Peru_Ollanta Humala_1_2011_2016,Peru,PER,Latin America & Caribbean,Ollanta Humala,Peruvian Nationalist Party,-1,1,0.6,Somewhat populist,2011,2016
+Peru_Pedro Pablo Kuczynski_1_2016_2018,Peru,PER,Latin America & Caribbean,Pedro Pablo Kuczynski,Peruvians for Change,0,1,0,Not populist,2016,2018
+Poland_Leszek Miller_1_2001_2004,Poland,POL,Europe & Central Asia,Leszek Miller,Democratic Left Alliance,-1,0,0.2,Not populist,2001,2004
+Poland_Jaroslaw Kaczynski_1_2006_2007,Poland,POL,Europe & Central Asia,Jaroslaw Kaczynski,Law and Justice,1,0,0.3,Not populist,2006,2007
+Poland_Donald Tusk_1_2011_2014,Poland,POL,Europe & Central Asia,Donald Tusk,Civic Platform,1,0,0,Not populist,2011,2014
+Poland_Beate Szydlo_1_2015_2017,Poland,POL,Europe & Central Asia,Beate Szydlo,Law and Justice,1,0,0.9,Somewhat populist,2015,2017
+Romania_Adian N?stase_1_2000_2004,Romania,ROU,Europe & Central Asia,Adian N?stase,Social Democratic Party,-1,0,0.3,Not populist,2000,2004
+Romania_C?lin Popescu-T?riceanu_1_2004_2008,Romania,ROU,Europe & Central Asia,C?lin Popescu-T?riceanu,National Liberal Party,1,0,0.4,Not populist,2004,2008
+Romania_Emil Boc_1_2008_2012,Romania,ROU,Europe & Central Asia,Emil Boc,National Liberal Party,1,0,0.3,Not populist,2008,2012
+Romania_Viktor Ponta_1_2012_2015,Romania,ROU,Europe & Central Asia,Viktor Ponta,Social Democrat Party,-1,0,0.4,Not populist,2012,2015
+Romania_Dacian Ciolo?_1_2015_2017,Romania,ROU,Europe & Central Asia,Dacian Ciolo?,Independent,0,0,0.3,Not populist,2015,2017
+Russia_Vladimir Putin_1_1999_2004,Russia,RUS,Europe & Central Asia,Vladimir Putin,United Russia,0,1,0.1,Not populist,1999,2004
+Russia_Vladimir Putin_2_2004_2008,Russia,RUS,Europe & Central Asia,Vladimir Putin,United Russia,0,1,0,Not populist,2004,2008
+Russia_Vladimir Putin_3_2008_2012,Russia,RUS,Europe & Central Asia,Vladimir Putin,United Russia,0,0,0.5,Somewhat populist,2008,2012
+Russia_Vladimir Putin_4_2012_2018,Russia,RUS,Europe & Central Asia,Vladimir Putin,United Russia,0,0,0.5,Somewhat populist,2012,2018
+Slovakia_Mikuláš Dzurinda_1_1998_2002,Slovakia,SVK,Europe & Central Asia,Mikuláš Dzurinda,Slovak Democratic and Christian Union,1,0,0.3,Not populist,1998,2002
+Slovakia_Mikuláš Dzurinda_2_2002_2006,Slovakia,SVK,Europe & Central Asia,Mikuláš Dzurinda,Slovak Democratic and Christian Union,1,0,0.4,Not populist,2002,2006
+Slovakia_Robert Fico_1_2006_2010,Slovakia,SVK,Europe & Central Asia,Robert Fico,Direction - Social Democracy,-1,0,0.8,Somewhat populist,2006,2010
+Slovakia_Robert Fico_2_2012_2016,Slovakia,SVK,Europe & Central Asia,Robert Fico,Direction - Social Democracy,-1,0,0.1,Not populist,2012,2016
+Slovakia_Robert Fico_3_2016_2018,Slovakia,SVK,Europe & Central Asia,Robert Fico,Direction - Social Democracy,-1,0,0.1,Not populist,2016,2018
+Spain_José María Aznar_2_2000_2004,Spain,ESP,Europe & Central Asia,José María Aznar,Spanish Socialist Workers' Party,-1,0,0.1,Not populist,2000,2004
+Spain_José Luis Rodríguez Zapatero_1_2004_2008,Spain,ESP,Europe & Central Asia,José Luis Rodríguez Zapatero,Spanish Socialist Workers' Party,-1,0,0,Not populist,2004,2008
+Spain_José Luis Rodríguez Zapatero_2_2008_2011,Spain,ESP,Europe & Central Asia,José Luis Rodríguez Zapatero,Spanish Socialist Workers' Party,-1,0,0.4,Not populist,2008,2011
+Spain_Mariano Rajoy_1_2011_2016,Spain,ESP,Europe & Central Asia,Mariano Rajoy,People's Party,1,0,0,Not populist,2011,2016
+Spain_Mariano Rajoy_2_2016_2018,Spain,ESP,Europe & Central Asia,Mariano Rajoy,People's Party,1,0,0.2,Not populist,2016,2018
+Sweden_Göran Persson_1_2002_2006,Sweden,SWE,Europe & Central Asia,Göran Persson,Social Democratic Party,-1,0,0,Not populist,2002,2006
+Sweden_Fredrik Reinfeldt_1_2006_2014,Sweden,SWE,Europe & Central Asia,Fredrik Reinfeldt,Moderate Party,1,0,0,Not populist,2006,2014
+Sweden_Stefan Löfven_1_2014_1899,Sweden,SWE,Europe & Central Asia,Stefan Löfven,Social Democratic Party,-1,0,0.1,Not populist,2014,1899
+Turkey_Recep T. Erdogan_1_2003_2007,Turkey,TUR,Europe & Central Asia,Recep T. Erdogan,Justice and Development Party,1,0,0.1,Not populist,2003,2007
+Turkey_Recep T. Erdogan_2_2007_2011,Turkey,TUR,Europe & Central Asia,Recep T. Erdogan,Justice and Development Party,1,0,0.9,Somewhat populist,2007,2011
+Turkey_Recep T. Erdogan_3_2011_2014,Turkey,TUR,Europe & Central Asia,Recep T. Erdogan,Justice and Development Party,1,0,0.9,Somewhat populist,2011,2014
+Turkey_Recep T. Erdogan_4_2014_2018,Turkey,TUR,Europe & Central Asia,Recep T. Erdogan,Justice and Development Party,1,1,1.5,Very Populist,2014,2018
+UK_Tony Blair_2_2001_2005,UK,GBR,Europe & Central Asia,Tony Blair,Labour Party,-1,0,0.1,Not populist,2001,2005
+UK_Tony Blair_3_2005_2007,UK,GBR,Europe & Central Asia,Tony Blair,Labour Party,-1,0,0.1,Not populist,2005,2007
+UK_Gordon Brown_1_2007_2010,UK,GBR,Europe & Central Asia,Gordon Brown,Labour Party,-1,0,0.1,Not populist,2007,2010
+UK_David Cameron_1_2010_2016,UK,GBR,Europe & Central Asia,David Cameron,Conservative Party,1,0,0,Not populist,2010,2016
+UK_Theresa May_1_2016_1899,UK,GBR,Europe & Central Asia,Theresa May,Conservative Party,1,0,0.5,Somewhat populist,2016,1899
+United States_George W. Bush_1_2001_2005,United States,USA,North America,George W. Bush,Republican Party,1,1,0.2,Not populist,2001,2005
+United States_George W. Bush_2_2005_2009,United States,USA,North America,George W. Bush,Republican Party,1,1,0.2,Not populist,2005,2009
+United States_Barack Obama_1_2009_2013,United States,USA,North America,Barack Obama,Democratic Party,-1,1,0.2,Not populist,2009,2013
+United States_Barack Obama_2_2013_2017,United States,USA,North America,Barack Obama,Democratic Party,-1,1,0.3,Not populist,2013,2017
+United States_Donald Trump_1_2017_1899,United States,USA,North America,Donald Trump,Republican Party,1,1,0.8,Somewhat populist,2017,1899
+Uruguay_Jorge Batlle_1_2000_2005,Uruguay,URY,Latin America & Caribbean,Jorge Batlle,Colorado Party,1,1,0.2,Not populist,2000,2005
+Uruguay_Tabaré Vásquez_1_2005_2010,Uruguay,URY,Latin America & Caribbean,Tabaré Vásquez,Broad Front,-1,1,0.3,Not populist,2005,2010
+Uruguay_José Mujica_1_2010_2015,Uruguay,URY,Latin America & Caribbean,José Mujica,Broad Front,-1,1,0.1,Not populist,2010,2015
+Uruguay_Tabaré Vázquez_2_2015_1899,Uruguay,URY,Latin America & Caribbean,Tabaré Vázquez,Broad Front,-1,1,0.2,Not populist,2015,1899
+Venezuela_Hugo Chávez_1_1999_2007,Venezuela,VEN,Latin America & Caribbean,Hugo Chávez,The Fifth Republic Movement,-1,1,1.9,Very Populist,1999,2007
+Venezuela_Hugo Chávez_2_2007_2013,Venezuela,VEN,Latin America & Caribbean,Hugo Chávez,United Socialist Party of Venezuela,-1,1,1.8,Very Populist,2007,2013
+Venezuela_Hugo Chávez_3_2013_2013,Venezuela,VEN,Latin America & Caribbean,Hugo Chávez,United Socialist Party of Venezuela,-1,1,1.7,Very Populist,2013,2013
+Venezuela_Nicolás Maduro_1_2013_1899,Venezuela,VEN,Latin America & Caribbean,Nicolás Maduro,United Socialist Party of Venezuela,-1,1,1.6,Very Populist,2013,1899
